@@ -1,1 +1,4 @@
-# AriqNaufalF_PBW1-4505
+# Identitas
+Nama: Ariq Naufal Fadhlurrahman
+
+NIM: 6706213016
